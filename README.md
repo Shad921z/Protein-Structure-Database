@@ -37,3 +37,58 @@ The project is designed for **students and beginners in bioinformatics** to unde
 
 ## 📁 Project Structure
 
+protein_structuredb/
+│
+├── home.py # Home page
+├── protein_structure.db # SQLite database
+├── requirements.txt
+├── pages/
+│ ├── 1_Admin.py # Admin panel (add proteins)
+│ ├── 2_3D_Structure.py # 3D structure viewer
+│ ├── 3_Search.py # Protein search & detail view
+
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/shad921z/protein-structure-database.git
+cd protein-structure-database 
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the application
+
+```bash
+streamlit run app.py
+```
+
+## 🔐 Admin Access
+
+The admin panel is protected using a session-based password gate.
+Only the admin can add new protein data to the database.
+
+## 🎯 Intended Audience
+
+Life science students
+Beginners in bioinformatics
+Educators demonstrating protein structures
+Developers exploring biology-related applications
+
+## 🔮 Future Improvements
+
+Automatic ligand detection from PDB entries
+Protein–ligand interaction visualization
+Advanced filtering (organism, method, resolution)
+Deployment on Streamlit Cloud
+User authentication (viewer vs admin roles)
+
+
+
