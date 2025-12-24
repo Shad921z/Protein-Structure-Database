@@ -77,18 +77,18 @@ Only the admin can add new protein data to the database.
 
 ## 🎯 Intended Audience
 
-Life science students
-Beginners in bioinformatics
-Educators demonstrating protein structures
-Developers exploring biology-related applications
+- Life science students
+- Beginners in bioinformatics
+- Educators demonstrating protein structures
+- Developers exploring biology-related applications
 
 ## 🔮 Future Improvements
 
-Automatic ligand detection from PDB entries
-Protein–ligand interaction visualization
-Advanced filtering (organism, method, resolution)
-Deployment on Streamlit Cloud
-User authentication (viewer vs admin roles)
+- Automatic ligand detection from PDB entries
+- Protein–ligand interaction visualization
+- Advanced filtering (organism, method, resolution)
+- Deployment on Streamlit Cloud
+- User authentication (viewer vs admin roles)
 
 
 
