@@ -38,15 +38,15 @@ The project is designed for **students and beginners in bioinformatics** to unde
 ## 📁 Project Structure
 
 protein_structuredb/
-│
-├── home.py # Home page
-├── protein_structure.db # SQLite database
-├── requirements.txt
-├── pages/
-│ ├── 1_Admin.py # Admin panel (add proteins)
-│ ├── 2_3D_Structure.py # 3D structure viewer
-│ ├── 3_Search.py # Protein search & detail view
-
+│  
+├── home.py # Home page  
+├── protein_structure.db # SQLite database  
+├── requirements.txt  
+├── pages/  
+│ ├── 1_Admin.py # Admin panel (add proteins)  
+│ ├── 2_3D_Structure.py # 3D structure viewer  
+│ ├── 3_Search.py # Protein search & detail view  
+  
 
 ---
 
