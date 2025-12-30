@@ -57,7 +57,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     if st.button("🔍 Search Protein"):
-        st.switch_page("pages/3_Search.py")
+        st.switch_page("pages/1_Search.py")
 
 with col2:
     if st.button("🧬 3D Structure Viewer"):
@@ -65,7 +65,7 @@ with col2:
 
 with col3:
     if st.button("🔐 Admin Panel"):
-        st.switch_page("pages/1_Admin.py")
+        st.switch_page("pages/Admin.py")
 
 st.divider()
 
