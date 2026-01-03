@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Protein Structure Database
 
 An interactive web-based application to explore **protein 3D structures** and **ligand molecular structures** using publicly available biological databases.
@@ -92,3 +93,8 @@ Only the admin can add new protein data to the database.
 
 
 
+=======
+# Protein-Structure-Database
+
+An interactive protein structure database that retrieves data from public biological APIs, stores it in a relational database, and visualizes protein and ligand structures using embedded 3D viewers.
+>>>>>>> 30ae89b (commit)
