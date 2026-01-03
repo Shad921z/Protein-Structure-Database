@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Protein Structure Database
 
 An interactive web-based application to explore **protein 3D structures** and **ligand molecular structures** using publicly available biological databases.
@@ -83,13 +83,15 @@ Only the admin can add new protein data to the database.
 - Educators demonstrating protein structures
 - Developers exploring biology-related applications
 
-##  Future Improvements
+## NEW UPDATES
+- Added Update and Delete functions in the admin menu
+- Improved overall UI
+- Improved 3d structure view
+- Improved Navigation
+- Fixed ligand and molecular structure image issue
 
-- Automatic ligand detection from PDB entries
-- Protein–ligand interaction visualization
-- Advanced filtering (organism, method, resolution)
-- Deployment on Streamlit Cloud
-- User authentication (viewer vs admin roles)
+##  Future Improvements
+-----------------
 
 
 
